@@ -5,3 +5,4 @@
 * KNN
 * Decision Tree
 * Naive Bayes
+* Logistic Regression
