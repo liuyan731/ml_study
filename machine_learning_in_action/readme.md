@@ -6,3 +6,4 @@
 * Decision Tree
 * Naive Bayes
 * Logistic Regression
+* SVM
